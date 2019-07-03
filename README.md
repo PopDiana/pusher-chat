@@ -1,6 +1,6 @@
 # pusher-chat
 
-A chat app using Ruby on Rails and Pusher Channels, following this [tutorial.](https://pusher.com/tutorials/chat-app-ruby-rails)
+A chat app built using Ruby on Rails and Pusher Channels, following this [tutorial.](https://pusher.com/tutorials/chat-app-ruby-rails)
 
 ## Getting started
 
