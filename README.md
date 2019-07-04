@@ -18,6 +18,8 @@ A chat app built using Ruby on Rails and Pusher Channels, following this [tutori
 $ rails db:setup
 $ rails db:migrate
 ```
+----------
+
 `$ figaro install`
 
 In *config/application.yml* modify the following with your access keys:
